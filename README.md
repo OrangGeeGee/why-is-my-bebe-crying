@@ -1,2 +1,4 @@
 # why-is-my-bebe-crying
-Should help you understand why your baby is crying
+An Android app that should help you understand why your baby is crying.
+
+https://whyismybebecrying.com/
